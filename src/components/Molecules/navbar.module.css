@@ -1,0 +1,15 @@
+.parent{
+    display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+}
+li{
+    cursor: pointer;
+}

@@ -1,0 +1,1 @@
+export const ListItem=["file","Edit","View","Insert","Format","Tools","Extenstion","Help"]
